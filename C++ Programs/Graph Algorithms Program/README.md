@@ -2,10 +2,10 @@ This is a program to showcase graph algorithms. Specifically it uses Dijkstra's 
 It also can compute the topological sort for an acyclic graph. 
 Graphs are read in through a file with this structure:
 
-  # of vertices
+  number of vertices
   vertex name 
   ...
-  # of edges
+  number of edges
   FromVertex ToVertex weight
   ...
 
