@@ -18,7 +18,7 @@
        FILE-CONTROL.
 
            SELECT inputFile ASSIGN TO
-           "input.txt"
+           "EmployeeClassifierInput.txt"
            ORGANIZATION IS LINE SEQUENTIAL.
 
 
