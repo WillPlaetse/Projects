@@ -9,4 +9,6 @@ Graphs are read in through a file with this structure:
   FromVertex ToVertex weight
   ...
 
+ A sample graph has been included name Graph1.txt
+
 To run simply compile DisjointSet.cpp Graph.cpp graphRunner.cpp together and then execute
