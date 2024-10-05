@@ -21,6 +21,7 @@ class DisjoinSet
 
         //Unions objIndex1 and objIndex2 and returns true if all objects are unioned togther
         // and false otherwise
+        //Precondition: The indexes must not already be in the same set
         bool doUnion(int objIndex1, int objIndex2);
 
         //Prints the values to a file
